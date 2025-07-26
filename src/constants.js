@@ -67,4 +67,4 @@ export const SIZE_TOOL_TYPES = [
 
 export const ARROW_LENGTH = 20;
 export const ELEMENT_ERASE_THRESHOLD = 0.1;
-export const BASE_URL = "http://localhost:5000";
+export const BASE_URL = "https://fullstackwhiteboardbackend.onrender.com/";
