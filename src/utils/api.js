@@ -18,7 +18,7 @@ export const updateCanvas = async (canvasId, elements) => {
         },
       }
     );
-    console.log("Canvas updated successfully in the database!", response.data);
+    // console.log("Canvas updated successfully in the database!", response.data);
     return response.data;
   } catch (error) {
     // console.error("Error updating canvas:", error);
