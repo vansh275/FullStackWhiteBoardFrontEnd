@@ -4,8 +4,6 @@ This is the frontend for a full-stack, real-time collaborative whiteboard applic
 
 **[Backend Repository](https://github.com/vansh275/FullStackWhiteBoardBackEnd)** | **[Live Demo](https://full-stack-white-board-front-end.vercel.app/)**
 
-![Demo GIF placeholder](https://placehold.co/600x400/F4F4F9/333333?text=Project+Demo+GIF)
-
 ---
 
 ## ✨ Features
